@@ -1,0 +1,13 @@
+Devops Day 5
+
+1) Containerization
+Container is a process in which there are only 
+--- Container Enginer - Docker. 
+
+
+git-scm/download
+
+
+
+git --version
+git init
